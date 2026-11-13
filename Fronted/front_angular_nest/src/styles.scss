@@ -1,0 +1,10 @@
+/* PrimeNG & Tema Sakai */
+@import "primeng/resources/themes/lara-light-indigo/theme.css";
+
+$gutter: 1rem;
+@import "assets/layout/styles/layout/layout.scss";
+
+/* PrimeNG Core & Icons */
+@import "primeng/resources/primeng.min.css";
+@import "primeflex/primeflex.scss";
+@import "primeicons/primeicons.css";

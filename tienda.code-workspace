@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "Frontend (Angular)",
+      "path": "Fronted/front_angular_nest"
+    },
+    {
+      "name": "Backend (NestJS)",
+      "path": "proyecto-main"
+    }
+  ],
+  "settings": {
+    "search.exclude": {
+      "**/node_modules": true,
+      "**/dist": true,
+      "**/.angular": true
+    },
+    "files.exclude": {
+      "**/.angular": true
+    }
+  }
+}
